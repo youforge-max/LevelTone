@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Telefon laposan a hátán. Csendesítsd le a hangot, hogy minden sarok vízszintes legyen.</string>
+    <string name="status_place_flat">Tedd le a telefont laposan, kijelzővel felfelé</string>
+    <string name="status_flip">Fordítsd meg a telefont — a kijelzőnek felfelé kell néznie</string>
+    <string name="status_level">VÍZSZINTES</string>
+    <string name="status_right_high">Jobb oldal magasan</string>
+    <string name="status_left_high">Bal oldal magasan</string>
+    <string name="status_top_high">Felső él magasan</string>
+    <string name="status_bottom_high">Alsó él magasan</string>
+    <string name="readout_fmt">dőlés %1$.1f°   ·   B/J %2$+.1f°   ·   E/H %3$+.1f°</string>
+    <string name="btn_start">▶  Hang indítása</string>
+    <string name="btn_stop">⏹  Hang leállítása</string>
+    <string name="lbl_vol">Hang</string>
+    <string name="lbl_pitch">Hangmag.</string>
+    <string name="semitone_fmt">%+d ff</string>
+    <string name="lbl_stereo">Sztereó panoráma (halld a bal/jobb dőlést)</string>
+    <string name="lbl_language">Nyelv</string>
+    <string name="language_system">Rendszer alapértelmezett</string>
+    <string name="dlg_close">Bezárás</string>
+</resources>

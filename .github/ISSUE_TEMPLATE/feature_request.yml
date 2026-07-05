@@ -1,0 +1,55 @@
+name: Feature request
+description: Suggest an idea or improvement for LevelTone
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the idea. LevelTone is a small hobby app with **no support or roadmap
+        guarantee** — suggestions are welcome, and pull requests even more so.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the problem or use case?
+      description: What are you trying to do that LevelTone doesn't handle today?
+      placeholder: "I'm leveling a caravan and want a louder alert from across the room…"
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What would you like it to do?
+      placeholder: "A 'loud alert' mode that plays a repeating chime while level…"
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other ways you've thought about solving this. Optional.
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Which part of the app would this touch?
+      options:
+        - Continuous tone
+        - Level ping / alert
+        - Stereo pan
+        - Bubble level / direction label
+        - Volume / controls
+        - Calibration / accuracy
+        - New feature
+        - Other
+    validations:
+      required: false
+  - type: checkboxes
+    id: contribute
+    attributes:
+      label: Contribution
+      options:
+        - label: I'd be willing to work on a pull request for this.
+          required: false

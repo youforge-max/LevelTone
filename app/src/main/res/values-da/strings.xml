@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Telefonen fladt på ryggen. Stil tonen for at nivellere alle hjørner.</string>
+    <string name="status_place_flat">Læg telefonen fladt, skærmen opad</string>
+    <string name="status_flip">Vend telefonen — skærmen skal vende opad</string>
+    <string name="status_level">I VATER</string>
+    <string name="status_right_high">Højre side høj</string>
+    <string name="status_left_high">Venstre side høj</string>
+    <string name="status_top_high">Øverste kant høj</string>
+    <string name="status_bottom_high">Nederste kant høj</string>
+    <string name="readout_fmt">hældning %1$.1f°   ·   V/H %2$+.1f°   ·   F/B %3$+.1f°</string>
+    <string name="btn_start">▶  Start tone</string>
+    <string name="btn_stop">⏹  Stop tone</string>
+    <string name="lbl_vol">Lyd</string>
+    <string name="lbl_pitch">Tonehøjde</string>
+    <string name="semitone_fmt">%+d ht</string>
+    <string name="lbl_stereo">Stereopanorering (hør venstre/højre-hældning)</string>
+    <string name="lbl_language">Sprog</string>
+    <string name="language_system">Systemstandard</string>
+    <string name="dlg_close">Luk</string>
+</resources>

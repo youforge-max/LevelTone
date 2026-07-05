@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Puhelin selälleen tasaisesti. Vaimenna ääni tasataksesi kaikki kulmat.</string>
+    <string name="status_place_flat">Aseta puhelin tasaisesti, näyttö ylöspäin</string>
+    <string name="status_flip">Käännä puhelin — näytön on oltava ylöspäin</string>
+    <string name="status_level">VAAKA</string>
+    <string name="status_right_high">Oikea puoli ylhäällä</string>
+    <string name="status_left_high">Vasen puoli ylhäällä</string>
+    <string name="status_top_high">Yläreuna ylhäällä</string>
+    <string name="status_bottom_high">Alareuna ylhäällä</string>
+    <string name="readout_fmt">kallistus %1$.1f°   ·   V/O %2$+.1f°   ·   E/T %3$+.1f°</string>
+    <string name="btn_start">▶  Käynnistä ääni</string>
+    <string name="btn_stop">⏹  Pysäytä ääni</string>
+    <string name="lbl_vol">Ään.</string>
+    <string name="lbl_pitch">Korkeus</string>
+    <string name="semitone_fmt">%+d st</string>
+    <string name="lbl_stereo">Stereopanorointi (kuule vasen/oikea-kallistus)</string>
+    <string name="lbl_language">Kieli</string>
+    <string name="language_system">Järjestelmän oletus</string>
+    <string name="dlg_close">Sulje</string>
+</resources>

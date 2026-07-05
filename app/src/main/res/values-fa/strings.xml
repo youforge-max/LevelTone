@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">گوشی را صاف روی پشتش بگذارید. صدا را آرام کنید تا همه گوشه‌ها تراز شوند.</string>
+    <string name="status_place_flat">گوشی را صاف بگذارید، صفحه رو به بالا</string>
+    <string name="status_flip">گوشی را برگردانید — صفحه باید رو به بالا باشد</string>
+    <string name="status_level">تراز</string>
+    <string name="status_right_high">سمت راست بالاست</string>
+    <string name="status_left_high">سمت چپ بالاست</string>
+    <string name="status_top_high">لبه بالا بالاست</string>
+    <string name="status_bottom_high">لبه پایین بالاست</string>
+    <string name="readout_fmt">شیب %1$.1f°   ·   چ/ر %2$+.1f°   ·   ج/ع %3$+.1f°</string>
+    <string name="btn_start">▶  شروع صدا</string>
+    <string name="btn_stop">⏹  توقف صدا</string>
+    <string name="lbl_vol">صدا</string>
+    <string name="lbl_pitch">زیر و بمی</string>
+    <string name="semitone_fmt">%+d نت</string>
+    <string name="lbl_stereo">پن استریو (شنیدن شیب چپ/راست)</string>
+    <string name="lbl_language">زبان</string>
+    <string name="language_system">پیش‌فرض سیستم</string>
+    <string name="dlg_close">بستن</string>
+</resources>

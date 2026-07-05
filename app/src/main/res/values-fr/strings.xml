@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Téléphone à plat sur le dos. Stabilisez le son pour mettre tous les coins de niveau.</string>
+
+    <string name="status_place_flat">Posez le téléphone à plat, écran vers le haut</string>
+    <string name="status_flip">Retournez le téléphone — écran vers le haut</string>
+    <string name="status_level">DE NIVEAU</string>
+    <string name="status_right_high">Côté droit haut</string>
+    <string name="status_left_high">Côté gauche haut</string>
+    <string name="status_top_high">Bord supérieur haut</string>
+    <string name="status_bottom_high">Bord inférieur haut</string>
+
+    <string name="readout_fmt">inclin. %1$.1f°   ·   G/D %2$+.1f°   ·   A/A %3$+.1f°</string>
+
+    <string name="btn_start">▶  Démarrer le son</string>
+    <string name="btn_stop">⏹  Arrêter le son</string>
+
+    <string name="lbl_vol">Vol</string>
+    <string name="lbl_pitch">Hauteur</string>
+    <string name="semitone_fmt">%+d dt</string>
+    <string name="lbl_stereo">Panoramique stéréo (entendre l\'inclinaison G/D)</string>
+    <string name="lbl_language">Langue</string>
+    <string name="language_system">Par défaut du système</string>
+    <string name="dlg_close">Fermer</string>
+</resources>

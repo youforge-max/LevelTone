@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Telefono piatto sul dorso. Stabilizza il tono per mettere in piano tutti gli angoli.</string>
+    <string name="status_place_flat">Posa il telefono piatto, schermo in alto</string>
+    <string name="status_flip">Gira il telefono — lo schermo deve essere rivolto in alto</string>
+    <string name="status_level">IN PIANO</string>
+    <string name="status_right_high">Lato destro alto</string>
+    <string name="status_left_high">Lato sinistro alto</string>
+    <string name="status_top_high">Bordo superiore alto</string>
+    <string name="status_bottom_high">Bordo inferiore alto</string>
+    <string name="readout_fmt">inclin. %1$.1f°   ·   S/D %2$+.1f°   ·   A/D %3$+.1f°</string>
+    <string name="btn_start">▶  Avvia tono</string>
+    <string name="btn_stop">⏹  Ferma tono</string>
+    <string name="lbl_vol">Vol</string>
+    <string name="lbl_pitch">Tono</string>
+    <string name="semitone_fmt">%+d st</string>
+    <string name="lbl_stereo">Panoramica stereo (senti l\'inclinazione sin./des.)</string>
+    <string name="lbl_language">Lingua</string>
+    <string name="language_system">Predefinito di sistema</string>
+    <string name="dlg_close">Chiudi</string>
+</resources>

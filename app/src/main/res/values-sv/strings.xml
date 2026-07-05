@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Telefonen platt på baksidan. Tysta tonen för att väga in alla hörn.</string>
+    <string name="status_place_flat">Lägg telefonen platt, skärmen uppåt</string>
+    <string name="status_flip">Vänd telefonen — skärmen måste vara uppåt</string>
+    <string name="status_level">I VÅG</string>
+    <string name="status_right_high">Höger sida hög</string>
+    <string name="status_left_high">Vänster sida hög</string>
+    <string name="status_top_high">Överkant hög</string>
+    <string name="status_bottom_high">Nederkant hög</string>
+    <string name="readout_fmt">lutning %1$.1f°   ·   V/H %2$+.1f°   ·   F/B %3$+.1f°</string>
+    <string name="btn_start">▶  Starta ton</string>
+    <string name="btn_stop">⏹  Stoppa ton</string>
+    <string name="lbl_vol">Vol</string>
+    <string name="lbl_pitch">Tonhöjd</string>
+    <string name="semitone_fmt">%+d ht</string>
+    <string name="lbl_stereo">Stereopanorering (hör vänster/höger-lutning)</string>
+    <string name="lbl_language">Språk</string>
+    <string name="language_system">Systemstandard</string>
+    <string name="dlg_close">Stäng</string>
+</resources>

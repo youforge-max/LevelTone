@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Ponsel telentang rata. Tenangkan nada untuk meratakan semua sudut.</string>
+    <string name="status_place_flat">Letakkan ponsel rata, layar menghadap atas</string>
+    <string name="status_flip">Balik ponsel — layar harus menghadap atas</string>
+    <string name="status_level">RATA</string>
+    <string name="status_right_high">Sisi kanan tinggi</string>
+    <string name="status_left_high">Sisi kiri tinggi</string>
+    <string name="status_top_high">Tepi atas tinggi</string>
+    <string name="status_bottom_high">Tepi bawah tinggi</string>
+    <string name="readout_fmt">miring %1$.1f°   ·   K/Ka %2$+.1f°   ·   A/B %3$+.1f°</string>
+    <string name="btn_start">▶  Mulai nada</string>
+    <string name="btn_stop">⏹  Hentikan nada</string>
+    <string name="lbl_vol">Vol</string>
+    <string name="lbl_pitch">Nada</string>
+    <string name="semitone_fmt">%+d st</string>
+    <string name="lbl_stereo">Pan stereo (dengar kemiringan kiri/kanan)</string>
+    <string name="lbl_language">Bahasa</string>
+    <string name="language_system">Default sistem</string>
+    <string name="dlg_close">Tutup</string>
+</resources>

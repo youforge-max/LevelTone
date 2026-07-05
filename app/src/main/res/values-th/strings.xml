@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">วางโทรศัพท์ราบหงายหลัง ทำให้เสียงนิ่งเพื่อปรับทุกมุมให้ได้ระดับ</string>
+    <string name="status_place_flat">วางโทรศัพท์ราบ หน้าจอหงายขึ้น</string>
+    <string name="status_flip">พลิกโทรศัพท์ — หน้าจอต้องหงายขึ้น</string>
+    <string name="status_level">ได้ระดับ</string>
+    <string name="status_right_high">ด้านขวาสูง</string>
+    <string name="status_left_high">ด้านซ้ายสูง</string>
+    <string name="status_top_high">ขอบบนสูง</string>
+    <string name="status_bottom_high">ขอบล่างสูง</string>
+    <string name="readout_fmt">เอียง %1$.1f°   ·   ซ/ข %2$+.1f°   ·   น/ล %3$+.1f°</string>
+    <string name="btn_start">▶  เริ่มเสียง</string>
+    <string name="btn_stop">⏹  หยุดเสียง</string>
+    <string name="lbl_vol">เสียง</string>
+    <string name="lbl_pitch">ระดับเสียง</string>
+    <string name="semitone_fmt">%+d st</string>
+    <string name="lbl_stereo">แพนสเตอริโอ (ฟังการเอียงซ้าย/ขวา)</string>
+    <string name="lbl_language">ภาษา</string>
+    <string name="language_system">ค่าเริ่มต้นของระบบ</string>
+    <string name="dlg_close">ปิด</string>
+</resources>

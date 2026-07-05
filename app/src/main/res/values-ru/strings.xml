@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Телефон плашмя на спинке. Стабилизируйте тон, чтобы выровнять все углы.</string>
+    <string name="status_place_flat">Положите телефон плашмя, экраном вверх</string>
+    <string name="status_flip">Переверните телефон — экран должен смотреть вверх</string>
+    <string name="status_level">РОВНО</string>
+    <string name="status_right_high">Правая сторона выше</string>
+    <string name="status_left_high">Левая сторона выше</string>
+    <string name="status_top_high">Верхний край выше</string>
+    <string name="status_bottom_high">Нижний край выше</string>
+    <string name="readout_fmt">наклон %1$.1f°   ·   Л/П %2$+.1f°   ·   В/Н %3$+.1f°</string>
+    <string name="btn_start">▶  Запустить тон</string>
+    <string name="btn_stop">⏹  Остановить тон</string>
+    <string name="lbl_vol">Громк.</string>
+    <string name="lbl_pitch">Высота</string>
+    <string name="semitone_fmt">%+d пт</string>
+    <string name="lbl_stereo">Стереопанорама (слышать наклон влево/вправо)</string>
+    <string name="lbl_language">Язык</string>
+    <string name="language_system">Системный по умолчанию</string>
+    <string name="dlg_close">Закрыть</string>
+</resources>

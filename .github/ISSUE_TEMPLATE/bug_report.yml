@@ -1,0 +1,66 @@
+name: Bug report
+description: Report something that doesn't work in LevelTone
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. LevelTone is a hobby app with **no support guarantee**,
+        but well-described bugs and pull requests are welcome. Please fill in what you can.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What went wrong, and what did you expect instead?
+      placeholder: "The tone never goes steady even when the phone is flat…"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we trigger it?
+      placeholder: |
+        1. Lay phone flat on a table
+        2. Tap Start tone
+        3. …
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: LevelTone version
+      description: From the release you installed (e.g. v1.0).
+      placeholder: "v1.0"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device & Android version
+      description: Phone model and Android version.
+      placeholder: "Pixel 7, Android 14"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Which part of the app?
+      options:
+        - Continuous tone
+        - Level ping
+        - Stereo pan
+        - Bubble level / direction label
+        - Volume
+        - Install / launch / crash
+        - Other
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots, a screen recording, or notes. Optional.
+    validations:
+      required: false

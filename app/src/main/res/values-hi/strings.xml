@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">फ़ोन को पीठ के बल सपाट रखें। सभी कोनों को समतल करने के लिए ध्वनि को स्थिर करें।</string>
+    <string name="status_place_flat">फ़ोन को सपाट रखें, स्क्रीन ऊपर की ओर</string>
+    <string name="status_flip">फ़ोन पलटें — स्क्रीन ऊपर की ओर होनी चाहिए</string>
+    <string name="status_level">समतल</string>
+    <string name="status_right_high">दाहिनी ओर ऊँची</string>
+    <string name="status_left_high">बाईं ओर ऊँची</string>
+    <string name="status_top_high">ऊपरी किनारा ऊँचा</string>
+    <string name="status_bottom_high">निचला किनारा ऊँचा</string>
+    <string name="readout_fmt">झुकाव %1$.1f°   ·   बा/दा %2$+.1f°   ·   आ/पी %3$+.1f°</string>
+    <string name="btn_start">▶  ध्वनि शुरू करें</string>
+    <string name="btn_stop">⏹  ध्वनि रोकें</string>
+    <string name="lbl_vol">वॉल्यूम</string>
+    <string name="lbl_pitch">पिच</string>
+    <string name="semitone_fmt">%+d st</string>
+    <string name="lbl_stereo">स्टीरियो पैन (बाएँ/दाएँ झुकाव सुनें)</string>
+    <string name="lbl_language">भाषा</string>
+    <string name="language_system">सिस्टम डिफ़ॉल्ट</string>
+    <string name="dlg_close">बंद करें</string>
+</resources>

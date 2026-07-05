@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Telefon sırtı üstü düz. Tüm köşeleri düzlemek için tonu dengeleyin.</string>
+    <string name="status_place_flat">Telefonu düz koyun, ekran yukarı baksın</string>
+    <string name="status_flip">Telefonu çevirin — ekran yukarı bakmalı</string>
+    <string name="status_level">DÜZ</string>
+    <string name="status_right_high">Sağ taraf yüksek</string>
+    <string name="status_left_high">Sol taraf yüksek</string>
+    <string name="status_top_high">Üst kenar yüksek</string>
+    <string name="status_bottom_high">Alt kenar yüksek</string>
+    <string name="readout_fmt">eğim %1$.1f°   ·   S/S %2$+.1f°   ·   Ö/A %3$+.1f°</string>
+    <string name="btn_start">▶  Tonu başlat</string>
+    <string name="btn_stop">⏹  Tonu durdur</string>
+    <string name="lbl_vol">Ses</string>
+    <string name="lbl_pitch">Perde</string>
+    <string name="semitone_fmt">%+d yt</string>
+    <string name="lbl_stereo">Stereo pan (sol/sağ eğimi duy)</string>
+    <string name="lbl_language">Dil</string>
+    <string name="language_system">Sistem varsayılanı</string>
+    <string name="dlg_close">Kapat</string>
+</resources>

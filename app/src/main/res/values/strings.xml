@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Phone flat on its back. Null the tone to level all corners.</string>
+
+    <string name="status_place_flat">Place phone flat, screen up</string>
+    <string name="status_flip">Flip phone — screen must face up</string>
+    <string name="status_level">LEVEL</string>
+    <string name="status_right_high">Right side high</string>
+    <string name="status_left_high">Left side high</string>
+    <string name="status_top_high">Top edge high</string>
+    <string name="status_bottom_high">Bottom edge high</string>
+
+    <string name="readout_fmt">tilt %1$.1f°   ·   L/R %2$+.1f°   ·   F/B %3$+.1f°</string>
+
+    <string name="btn_start">▶  Start tone</string>
+    <string name="btn_stop">⏹  Stop tone</string>
+
+    <string name="lbl_vol">Vol</string>
+    <string name="lbl_pitch">Pitch</string>
+    <string name="semitone_fmt">%+d st</string>
+    <string name="lbl_stereo">Stereo pan (hear left/right tilt)</string>
+    <string name="lbl_language">Language</string>
+    <string name="language_system">System default</string>
+    <string name="dlg_close">Close</string>
+</resources>

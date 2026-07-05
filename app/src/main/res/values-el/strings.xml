@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Τηλέφωνο επίπεδα ανάσκελα. Σταθεροποιήστε τον τόνο για να αλφαδιάσετε όλες τις γωνίες.</string>
+    <string name="status_place_flat">Τοποθετήστε το τηλέφωνο επίπεδα, οθόνη προς τα πάνω</string>
+    <string name="status_flip">Γυρίστε το τηλέφωνο — η οθόνη πρέπει να κοιτά πάνω</string>
+    <string name="status_level">ΑΛΦΑΔΙ</string>
+    <string name="status_right_high">Δεξιά πλευρά ψηλά</string>
+    <string name="status_left_high">Αριστερή πλευρά ψηλά</string>
+    <string name="status_top_high">Πάνω άκρη ψηλά</string>
+    <string name="status_bottom_high">Κάτω άκρη ψηλά</string>
+    <string name="readout_fmt">κλίση %1$.1f°   ·   Α/Δ %2$+.1f°   ·   Ε/Π %3$+.1f°</string>
+    <string name="btn_start">▶  Έναρξη τόνου</string>
+    <string name="btn_stop">⏹  Διακοπή τόνου</string>
+    <string name="lbl_vol">Έντ.</string>
+    <string name="lbl_pitch">Ύψος</string>
+    <string name="semitone_fmt">%+d ημ</string>
+    <string name="lbl_stereo">Στερεοφωνική μετατόπιση (άκου κλίση αρ./δεξ.)</string>
+    <string name="lbl_language">Γλώσσα</string>
+    <string name="language_system">Προεπιλογή συστήματος</string>
+    <string name="dlg_close">Κλείσιμο</string>
+</resources>

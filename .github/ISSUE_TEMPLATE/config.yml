@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the manual first
+    url: https://github.com/youforge-max/LevelTone/blob/main/MANUAL.md
+    about: Many "it doesn't work" cases are answered in the troubleshooting section.

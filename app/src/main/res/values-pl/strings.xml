@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Telefon płasko na plecach. Wycisz ton, aby wypoziomować wszystkie rogi.</string>
+    <string name="status_place_flat">Połóż telefon płasko, ekranem do góry</string>
+    <string name="status_flip">Odwróć telefon — ekran musi być skierowany do góry</string>
+    <string name="status_level">POZIOMO</string>
+    <string name="status_right_high">Prawa strona wyżej</string>
+    <string name="status_left_high">Lewa strona wyżej</string>
+    <string name="status_top_high">Górna krawędź wyżej</string>
+    <string name="status_bottom_high">Dolna krawędź wyżej</string>
+    <string name="readout_fmt">nachyl. %1$.1f°   ·   L/P %2$+.1f°   ·   G/D %3$+.1f°</string>
+    <string name="btn_start">▶  Włącz ton</string>
+    <string name="btn_stop">⏹  Zatrzymaj ton</string>
+    <string name="lbl_vol">Głoś.</string>
+    <string name="lbl_pitch">Wysokość</string>
+    <string name="semitone_fmt">%+d st</string>
+    <string name="lbl_stereo">Panorama stereo (słysz nachylenie lewo/prawo)</string>
+    <string name="lbl_language">Język</string>
+    <string name="language_system">Domyślne systemowe</string>
+    <string name="dlg_close">Zamknij</string>
+</resources>

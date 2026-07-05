@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">ضع الهاتف مسطحًا على ظهره. اجعل النغمة تهدأ لتسوية كل الزوايا.</string>
+    <string name="status_place_flat">ضع الهاتف مسطحًا، والشاشة إلى الأعلى</string>
+    <string name="status_flip">اقلب الهاتف — يجب أن تكون الشاشة إلى الأعلى</string>
+    <string name="status_level">مستوٍ</string>
+    <string name="status_right_high">الجانب الأيمن مرتفع</string>
+    <string name="status_left_high">الجانب الأيسر مرتفع</string>
+    <string name="status_top_high">الحافة العلوية مرتفعة</string>
+    <string name="status_bottom_high">الحافة السفلية مرتفعة</string>
+    <string name="readout_fmt">ميل %1$.1f°   ·   ي/ش %2$+.1f°   ·   أ/خ %3$+.1f°</string>
+    <string name="btn_start">▶  بدء النغمة</string>
+    <string name="btn_stop">⏹  إيقاف النغمة</string>
+    <string name="lbl_vol">الصوت</string>
+    <string name="lbl_pitch">الحدّة</string>
+    <string name="semitone_fmt">%+d نصف</string>
+    <string name="lbl_stereo">توزيع ستيريو (اسمع الميل يمين/يسار)</string>
+    <string name="lbl_language">اللغة</string>
+    <string name="language_system">افتراضي النظام</string>
+    <string name="dlg_close">إغلاق</string>
+</resources>

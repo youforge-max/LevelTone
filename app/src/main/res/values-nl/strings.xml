@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Telefoon plat op zijn rug. Breng de toon tot rust om alle hoeken waterpas te krijgen.</string>
+
+    <string name="status_place_flat">Leg de telefoon plat, scherm omhoog</string>
+    <string name="status_flip">Draai de telefoon om — scherm moet omhoog wijzen</string>
+    <string name="status_level">WATERPAS</string>
+    <string name="status_right_high">Rechterkant hoog</string>
+    <string name="status_left_high">Linkerkant hoog</string>
+    <string name="status_top_high">Bovenrand hoog</string>
+    <string name="status_bottom_high">Onderrand hoog</string>
+
+    <string name="readout_fmt">helling %1$.1f°   ·   L/R %2$+.1f°   ·   V/A %3$+.1f°</string>
+
+    <string name="btn_start">▶  Toon starten</string>
+    <string name="btn_stop">⏹  Toon stoppen</string>
+
+    <string name="lbl_vol">Vol</string>
+    <string name="lbl_pitch">Toonhoogte</string>
+    <string name="semitone_fmt">%+d ht</string>
+    <string name="lbl_stereo">Stereopanning (hoor links/rechts hellen)</string>
+    <string name="lbl_language">Taal</string>
+    <string name="language_system">Systeemstandaard</string>
+    <string name="dlg_close">Sluiten</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Điện thoại nằm phẳng ngửa lưng. Làm cho âm ổn định để cân bằng mọi góc.</string>
+    <string name="status_place_flat">Đặt điện thoại nằm phẳng, màn hình hướng lên</string>
+    <string name="status_flip">Lật điện thoại — màn hình phải hướng lên</string>
+    <string name="status_level">CÂN BẰNG</string>
+    <string name="status_right_high">Cạnh phải cao</string>
+    <string name="status_left_high">Cạnh trái cao</string>
+    <string name="status_top_high">Cạnh trên cao</string>
+    <string name="status_bottom_high">Cạnh dưới cao</string>
+    <string name="readout_fmt">nghiêng %1$.1f°   ·   T/P %2$+.1f°   ·   T/S %3$+.1f°</string>
+    <string name="btn_start">▶  Bắt đầu âm</string>
+    <string name="btn_stop">⏹  Dừng âm</string>
+    <string name="lbl_vol">Âm</string>
+    <string name="lbl_pitch">Cao độ</string>
+    <string name="semitone_fmt">%+d st</string>
+    <string name="lbl_stereo">Cân bằng stereo (nghe độ nghiêng trái/phải)</string>
+    <string name="lbl_language">Ngôn ngữ</string>
+    <string name="language_system">Mặc định hệ thống</string>
+    <string name="dlg_close">Đóng</string>
+</resources>

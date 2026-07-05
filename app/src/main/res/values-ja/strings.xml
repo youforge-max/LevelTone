@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">スマホを裏返して平らに。音を静めて四隅を水平にします。</string>
+    <string name="status_place_flat">スマホを平らに、画面を上にして置く</string>
+    <string name="status_flip">スマホを裏返す — 画面を上に向けてください</string>
+    <string name="status_level">水平</string>
+    <string name="status_right_high">右側が高い</string>
+    <string name="status_left_high">左側が高い</string>
+    <string name="status_top_high">上端が高い</string>
+    <string name="status_bottom_high">下端が高い</string>
+    <string name="readout_fmt">傾き %1$.1f°   ·   左右 %2$+.1f°   ·   前後 %3$+.1f°</string>
+    <string name="btn_start">▶  音を開始</string>
+    <string name="btn_stop">⏹  音を停止</string>
+    <string name="lbl_vol">音量</string>
+    <string name="lbl_pitch">音程</string>
+    <string name="semitone_fmt">%+d 半</string>
+    <string name="lbl_stereo">ステレオパン（左右の傾きを聞く）</string>
+    <string name="lbl_language">言語</string>
+    <string name="language_system">システムのデフォルト</string>
+    <string name="dlg_close">閉じる</string>
+</resources>

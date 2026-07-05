@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Telefonul plat pe spate. Stabilizează tonul pentru a nivela toate colțurile.</string>
+    <string name="status_place_flat">Așază telefonul plat, ecranul în sus</string>
+    <string name="status_flip">Întoarce telefonul — ecranul trebuie să fie în sus</string>
+    <string name="status_level">LA NIVEL</string>
+    <string name="status_right_high">Partea dreaptă sus</string>
+    <string name="status_left_high">Partea stângă sus</string>
+    <string name="status_top_high">Marginea de sus sus</string>
+    <string name="status_bottom_high">Marginea de jos sus</string>
+    <string name="readout_fmt">înclin. %1$.1f°   ·   S/D %2$+.1f°   ·   F/S %3$+.1f°</string>
+    <string name="btn_start">▶  Pornește tonul</string>
+    <string name="btn_stop">⏹  Oprește tonul</string>
+    <string name="lbl_vol">Vol</string>
+    <string name="lbl_pitch">Înălțime</string>
+    <string name="semitone_fmt">%+d st</string>
+    <string name="lbl_stereo">Panoramare stereo (auzi înclinarea stg./dr.)</string>
+    <string name="lbl_language">Limbă</string>
+    <string name="language_system">Implicit sistem</string>
+    <string name="dlg_close">Închide</string>
+</resources>

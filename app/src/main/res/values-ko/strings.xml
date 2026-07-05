@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">휴대폰을 뒤집어 평평하게. 소리를 잦아들게 하여 모든 모서리를 수평으로 맞추세요.</string>
+    <string name="status_place_flat">휴대폰을 평평하게, 화면이 위로 오게 놓으세요</string>
+    <string name="status_flip">휴대폰을 뒤집으세요 — 화면이 위를 향해야 합니다</string>
+    <string name="status_level">수평</string>
+    <string name="status_right_high">오른쪽이 높음</string>
+    <string name="status_left_high">왼쪽이 높음</string>
+    <string name="status_top_high">위쪽 가장자리 높음</string>
+    <string name="status_bottom_high">아래쪽 가장자리 높음</string>
+    <string name="readout_fmt">기울기 %1$.1f°   ·   좌우 %2$+.1f°   ·   앞뒤 %3$+.1f°</string>
+    <string name="btn_start">▶  소리 시작</string>
+    <string name="btn_stop">⏹  소리 정지</string>
+    <string name="lbl_vol">음량</string>
+    <string name="lbl_pitch">음높이</string>
+    <string name="semitone_fmt">%+d 반</string>
+    <string name="lbl_stereo">스테레오 팬 (좌우 기울기 듣기)</string>
+    <string name="lbl_language">언어</string>
+    <string name="language_system">시스템 기본값</string>
+    <string name="dlg_close">닫기</string>
+</resources>

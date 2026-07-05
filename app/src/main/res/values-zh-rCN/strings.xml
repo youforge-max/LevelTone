@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">手机正面朝上平放。让声音归于平稳，把四个角都调平。</string>
+    <string name="status_place_flat">将手机平放，屏幕朝上</string>
+    <string name="status_flip">翻转手机 — 屏幕必须朝上</string>
+    <string name="status_level">已水平</string>
+    <string name="status_right_high">右侧偏高</string>
+    <string name="status_left_high">左侧偏高</string>
+    <string name="status_top_high">上边偏高</string>
+    <string name="status_bottom_high">下边偏高</string>
+    <string name="readout_fmt">倾斜 %1$.1f°   ·   左右 %2$+.1f°   ·   前后 %3$+.1f°</string>
+    <string name="btn_start">▶  开始音调</string>
+    <string name="btn_stop">⏹  停止音调</string>
+    <string name="lbl_vol">音量</string>
+    <string name="lbl_pitch">音高</string>
+    <string name="semitone_fmt">%+d 半音</string>
+    <string name="lbl_stereo">立体声声像（听左右倾斜）</string>
+    <string name="lbl_language">语言</string>
+    <string name="language_system">系统默认</string>
+    <string name="dlg_close">关闭</string>
+</resources>

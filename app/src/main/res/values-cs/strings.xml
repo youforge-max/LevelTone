@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Telefon naplocho na zádech. Ustálením tónu vyrovnejte všechny rohy.</string>
+    <string name="status_place_flat">Položte telefon naplocho, displejem nahoru</string>
+    <string name="status_flip">Otočte telefon — displej musí směřovat nahoru</string>
+    <string name="status_level">VODOROVNĚ</string>
+    <string name="status_right_high">Pravá strana výš</string>
+    <string name="status_left_high">Levá strana výš</string>
+    <string name="status_top_high">Horní hrana výš</string>
+    <string name="status_bottom_high">Dolní hrana výš</string>
+    <string name="readout_fmt">náklon %1$.1f°   ·   L/P %2$+.1f°   ·   P/Z %3$+.1f°</string>
+    <string name="btn_start">▶  Spustit tón</string>
+    <string name="btn_stop">⏹  Zastavit tón</string>
+    <string name="lbl_vol">Hlas.</string>
+    <string name="lbl_pitch">Výška</string>
+    <string name="semitone_fmt">%+d pt</string>
+    <string name="lbl_stereo">Stereo panorama (slyšet náklon vlevo/vpravo)</string>
+    <string name="lbl_language">Jazyk</string>
+    <string name="language_system">Výchozí nastavení systému</string>
+    <string name="dlg_close">Zavřít</string>
+</resources>

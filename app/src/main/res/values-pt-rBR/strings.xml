@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">Telefone plano de costas. Estabilize o tom para nivelar todos os cantos.</string>
+    <string name="status_place_flat">Coloque o telefone plano, tela para cima</string>
+    <string name="status_flip">Vire o telefone — a tela deve ficar para cima</string>
+    <string name="status_level">NIVELADO</string>
+    <string name="status_right_high">Lado direito alto</string>
+    <string name="status_left_high">Lado esquerdo alto</string>
+    <string name="status_top_high">Borda superior alta</string>
+    <string name="status_bottom_high">Borda inferior alta</string>
+    <string name="readout_fmt">inclin. %1$.1f°   ·   E/D %2$+.1f°   ·   F/T %3$+.1f°</string>
+    <string name="btn_start">▶  Iniciar tom</string>
+    <string name="btn_stop">⏹  Parar tom</string>
+    <string name="lbl_vol">Vol</string>
+    <string name="lbl_pitch">Altura</string>
+    <string name="semitone_fmt">%+d st</string>
+    <string name="lbl_stereo">Panorâmica estéreo (ouvir inclinação esq./dir.)</string>
+    <string name="lbl_language">Idioma</string>
+    <string name="language_system">Padrão do sistema</string>
+    <string name="dlg_close">Fechar</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LevelTone</string>
+    <string name="subtitle">הנח את הטלפון שטוח על גבו. הרגע את הצליל כדי לפלס את כל הפינות.</string>
+    <string name="status_place_flat">הנח את הטלפון שטוח, המסך כלפי מעלה</string>
+    <string name="status_flip">הפוך את הטלפון — המסך חייב לפנות מעלה</string>
+    <string name="status_level">מפולס</string>
+    <string name="status_right_high">צד ימין גבוה</string>
+    <string name="status_left_high">צד שמאל גבוה</string>
+    <string name="status_top_high">הקצה העליון גבוה</string>
+    <string name="status_bottom_high">הקצה התחתון גבוה</string>
+    <string name="readout_fmt">הטיה %1$.1f°   ·   ש/י %2$+.1f°   ·   ק/א %3$+.1f°</string>
+    <string name="btn_start">▶  הפעל צליל</string>
+    <string name="btn_stop">⏹  עצור צליל</string>
+    <string name="lbl_vol">עוצמה</string>
+    <string name="lbl_pitch">גובה</string>
+    <string name="semitone_fmt">%+d חצי</string>
+    <string name="lbl_stereo">פנורמה סטריאו (שמע הטיה שמאל/ימין)</string>
+    <string name="lbl_language">שפה</string>
+    <string name="language_system">ברירת מחדל של המערכת</string>
+    <string name="dlg_close">סגור</string>
+</resources>
