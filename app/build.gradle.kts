@@ -1,17 +1,16 @@
 plugins {
     id("com.android.application")
-    id("org.jetbrains.kotlin.android")
     id("org.jetbrains.kotlin.plugin.compose")
 }
 
 android {
     namespace = "eu.cisodiagonal.leveltone"
-    compileSdk = 35
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "eu.cisodiagonal.leveltone"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
     }
